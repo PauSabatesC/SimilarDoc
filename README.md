@@ -1,5 +1,5 @@
 # SimilarDoc
-Program to determine the similarity between two documents. Also pretends to has a small time complexity.  
+Program to determine the similarity between two documents. Also pretends to has a really small time complexity.  
 
 The algorithm I've implemented to know the similarity is the proposed by G. Salton, A. Wong, and C. S. Yang (1975) in "A Vector Space Model for Automatic Indexing".
 
