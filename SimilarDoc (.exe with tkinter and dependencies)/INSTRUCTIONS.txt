@@ -1,0 +1,21 @@
+################################# HOW TO USE SimilarDoc #################################
+# 
+# Made by: Pau Sabates Campos
+#----------------------------------------------------------------------------
+#
+# 1.- Enter the names of the files to compare in each field.
+#     The names must include their extension (something.txt).
+#     To be sure it works good use .txt , but should work good with .odt or .docx
+# 
+# 2.- Clic to add file 1 and 2 buttons and after that click to confirm.
+#
+# 3.- To understand the result you only have to know:  
+#	The more close to 0 the result, the more similar the two documents are.
+#	The more close to 90 the result, the less similar the two documents are.
+#	
+#	(The reason of this numbers is because the algorithm I've implemented 
+#        to know the similarity is the distance between arrays of tuples of words 
+#        and frequency of this words. And with these arrays I calculate the angle
+#	 between, so 90º means that the arrays has no words in common).
+#	 
+#########################################################################################

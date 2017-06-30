@@ -1,0 +1,14 @@
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1537, in __call__
+  File "projecte.py", line 135, in Fichero1
+  File "projecte.py", line 90, in word_frequencies_for_file
+  File "projecte.py", line 29, in get_words_from_line_list
+TypeError: 'NoneType' object is not iterable
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1537, in __call__
+  File "projecte.py", line 140, in Fichero2
+  File "projecte.py", line 90, in word_frequencies_for_file
+  File "projecte.py", line 29, in get_words_from_line_list
+TypeError: 'NoneType' object is not iterable
